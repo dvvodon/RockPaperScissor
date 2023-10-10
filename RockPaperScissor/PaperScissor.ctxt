@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PaperScissor
+comment1.params=
+comment1.target=int\ computerAI()
+comment2.params=choice
+comment2.target=java.lang.String\ RPC(int)
+comment3.params=computer\ playerChoice
+comment3.target=boolean\ playerWin(int,\ int)
+comment4.params=playerChoice
+comment4.target=java.lang.String\ verbose(int)
+numComments=5
